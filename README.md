@@ -26,19 +26,6 @@ I approach development with precision, clarity, and long-term maintainability in
 
 ## 🛠 Technical Arsenal
 
-### 🔹 Programming & Scripting
-- **C, C++**
-- **JavaScript, TypeScript**
-- **Linux Command Line & Shell Scripting** *(Expert)*
-
-### 🔹 Web & Frameworks
-- **HTML, CSS**
-- **ReactJS, NextJS**
-
-### 🔹 Databases
-- **Oracle SQL**
-- **MongoDB**
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-0A1A2F?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-1F4ED8?style=flat&logo=cplusplus&logoColor=white"/>
