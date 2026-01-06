@@ -57,7 +57,7 @@ Awarded at a hackathon for building a project that effectively utilized open-sou
 ## 📬 Let’s Connect
 
 - 🌐 Portfolio / Website: *Coming soon*  
-- 💬 Discord / Contact: *Add your handle here*
+- 💬 Discord / Contact: hollywood_starzzz
 
 ---
 
