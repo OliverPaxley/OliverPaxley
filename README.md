@@ -24,7 +24,7 @@ I approach development with precision, clarity, and long-term maintainability in
 
 ---
 
-## 🛠 Technical Arsenal
+## 🛠 Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-0A1A2F?style=flat&logo=c&logoColor=white"/>
