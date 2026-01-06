@@ -1,67 +1,97 @@
-<h1 align="center">Hi, I’m 👋</h1>
+<h1 align="center">Oliver Paxley</h1>
 <p align="center">
-  Computer Programming Student at <b>Seneca Polytechnic</b>
+  <b>Sovanndara Rin</b><br/>
+  Computer Programming Student at <b>Seneca Polytechnic</b><br/>
+  Systems • Full Stack • Data • Linux
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OliverPaxley&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OliverPaxley&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Profile
 
-I’m a Computer Programming student at **Seneca Polytechnic** with a strong interest in building modern web applications and exploring full-stack development.  
-I enjoy turning ideas into real products, whether it’s a complete e-commerce system or a data-driven application powered by APIs.
+I am a **Computer Programming student at Seneca Polytechnic** focused on building reliable, scalable, and well-structured software systems.  
+My interests span low-level programming, full-stack development, database design, and Linux-based environments.
+
+I approach development with precision, clarity, and long-term maintainability in mind.
 
 ---
 
-## 🛠 Skills
+## 🛠 Technical Arsenal
+
+### 🔹 Programming & Scripting
+- **C, C++**
+- **JavaScript, TypeScript**
+- **Linux Command Line & Shell Scripting** *(Expert)*
+
+### 🔹 Web & Frameworks
+- **HTML, CSS**
+- **ReactJS, NextJS**
+
+### 🔹 Databases
+- **Oracle SQL**
+- **MongoDB**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-0A1A2F?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-1F4ED8?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FF6F00?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-0B1220?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-8B0000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-0F2A1D?style=flat&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Best Projects
+## 🚀 Flagship Projects
 
-### 🛒 Full Stack E-Commerce Website
-A complete web application featuring frontend, backend, and database integration.  
-Includes product management, user authentication, and order handling.
+### 🛒 Full Stack E-Commerce Platform
+A complete web system with frontend, backend, and database integration.  
+Includes product management, authentication, and transactional workflows.
 
-### 📈 Real-Time Stock Tracking Website
-A live stock tracking platform powered by external APIs.  
-Displays real-time market data with dynamic updates and clean UI.
+### 📡 Real-Time Stock Tracking System
+A data-driven platform powered by external APIs.  
+Streams live market information with dynamic UI updates and optimized performance.
 
 ---
 
-## 🏆 Hackathons & Achievements
+## 🔥 Activity
+
+**Current Coding Streak: 10 Days**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OliverPaxley&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 **🥇 Best Use of Open Source Data**  
-Awarded at a hackathon for building a project that effectively utilized open-source datasets to solve a real-world problem.
+Awarded for developing a solution that effectively leveraged open-source datasets to solve a real-world problem.
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 📬 Let’s Connect
-
-- 🌐 Portfolio / Website: *Coming soon*  
-- 💬 Discord / Contact: hollywood_starzzz
+- 💬 Discord: **hollywood_starzzz**
+- 🌐 Portfolio: *In development*
 
 ---
 
 <p align="center">
-  <i>Building projects. Learning every day. Leveling up.</i>
+  <i>Precision over noise. Systems over shortcuts.</i><br/>
+  🌌
 </p>
-
