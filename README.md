@@ -52,15 +52,6 @@ Includes product management, authentication, and transactional workflows.
 A data-driven platform powered by external APIs.  
 Streams live market information with dynamic UI updates and optimized performance.
 
----
-
-## 🔥 Activity
-
-**Current Coding Streak: 10 Days**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OliverPaxley&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
