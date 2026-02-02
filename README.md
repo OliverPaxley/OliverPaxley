@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="![GitHubCard](https://githubcard.com/OliverPaxley.svg)" />
+  ![GitHubCard](https://githubcard.com/OliverPaxley.svg)
 </p>
 
 <p align="center">
