@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverPaxley&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="![GitHubCard](https://githubcard.com/OliverPaxley.svg)" />
 </p>
 
 <p align="center">
