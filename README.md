@@ -12,8 +12,7 @@
 ---
 
 ## 🧠 Profile
-// [
-// ![GitHubCard](https://githubcard.com/OliverPaxley.svg)](https://githubcard.com/OliverPaxley.svg?d=Wb97xdWY)
+
 
 I am a **Computer Programming student at Seneca Polytechnic** focused on building reliable, scalable, and well-structured software systems.  
 My interests span low-level programming, full-stack development, database design, and Linux-based environments.
