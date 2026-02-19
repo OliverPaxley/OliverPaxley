@@ -37,25 +37,6 @@ I approach development with precision, clarity, and long-term maintainability in
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Flagship Projects
-
-### 🛒 Full Stack E-Commerce Platform
-A complete web system with frontend, backend, and database integration.  
-Includes product management, authentication, and transactional workflows.
-
-### 📡 Real-Time Stock Tracking System
-A data-driven platform powered by external APIs.  
-Streams live market information with dynamic UI updates and optimized performance.
-
-
----
-
-## 🏆 Achievements
-
-**🥇 Best Use of Open Source Data**  
-Awarded for developing a solution that effectively leveraged open-source datasets to solve a real-world problem.
 
 ---
 
